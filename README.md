@@ -21,6 +21,10 @@ I also have experience with Git and Webpack. I have a B2 level of proficiency in
 ## Activity
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aimenin&theme=solarized_dark)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimenin)](https://github.com/anuraghazra/github-readme-stats)
+
 ## How to contact me
 
 ✉️ email: imenin-work@mail.ru
