@@ -31,5 +31,5 @@ I also have experience with Git and Webpack. I have a B2 level of proficiency in
 
 👷‍♂️ hh resume: [ https://hh.ru/resume/940d2fcfff07464f640039ed1f644c747a6f32](https://almaty.hh.kz/resume/87c2ec48ff0be5f8db0039ed1f704164676368)
 
-👷‍♂️ linkedin: [https://hh.ru/resume/940d2fcfff07464f640039ed1f644c747a6f32](https://www.linkedin.com/in/artem-imenin-48aa31234/)
+👷‍♂️ linkedin: https://www.linkedin.com/in/artem-imenin-48aa31234/
 
