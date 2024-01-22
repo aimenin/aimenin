@@ -4,7 +4,7 @@
 
 ## 😐 About me
 
-Hello! I'm a professional web developer with 3 years of experience. I work with technologies such as HTML, CSS + SCSS, JS + Typescript, React + Redux + Redux-Saga, Apollo client, Next.js, Node.js, Java, Jest testing, Docker, MongoDB, Express.
+Hello! I'm a professional web developer with 5 years of experience. I work with technologies such as HTML, CSS + SCSS, JS + Typescript, React + Redux + Redux-Saga, Apollo client, Next.js, Node.js, Java, Jest testing, Docker, MongoDB, Express.
 
 I also have experience with Git and Webpack. I have a B2 level of proficiency in the English language.
 
